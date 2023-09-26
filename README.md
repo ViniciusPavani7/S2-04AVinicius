@@ -5,7 +5,7 @@
 <p>Agora, ative o node usando <b>node server.js</b>.</p>
 <p>Se caso você não tenha alterado o link, ele será <b>http://localhost:4000/graphql</b>, coloque isso no seu navegador preferido.</p>
 <p>No terminal a esquerda da página insira <b>{hello}</b> e aperte o "play" no canto superior esquerdo da tela.</p>
-<p>Caso no terminal a direita tenha tido uma resposta como.</p>
+<p>Caso no terminal a direita tenha tido uma resposta como:</p>
 <p><b>{
   "data": {
     "hello": "Olá, mundo!"
